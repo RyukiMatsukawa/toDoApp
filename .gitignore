@@ -1,0 +1,12 @@
+.idea
+.vscode/*
+!/.vscode/*.code-snippets
+docker/ash/.ash_history
+logs/*
+.DS_Store
+.env
+*.code-workspace
+src/public/css/app.css
+src/public/js/app.js
+src/public/mix-manifest.json
+src/storage/logs/*
